@@ -9,7 +9,7 @@ int main()
 
     int n;
 
-    cout<<"***\t\t Note You Should Write First Non Terminal Type Function First   \t\t*** \n\n";
+    cout<<"***\t\t Note You Should Write First  Terminal Type Function First   \t\t*** \n\n";
 
     cout<<"***\t\t If Your Calling Non Terminal You write in Manner It Written First. \t\t*** \n\n";
 

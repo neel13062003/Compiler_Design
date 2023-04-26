@@ -1,9 +1,9 @@
 <h1>(LT - Compiler Designing ) = Language Translator = Most Scoring Subject</h1>
 
-1)<a href="https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/">https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/</a>
-2)<a href="https://www.geeksforgeeks.org/compiler-design-tutorials/?ref=lbp"> GFG Compiler Design </a>
-3)<a href="https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc"> play List </a>
-4)<a href="https://www.youtube.com/watch?v=gR1FnnNzMvk&list=PLPIwNooIb9vh9l2_rk2OGAWYcA9b8X9Y5">  Play List </a>
+1)<a href="https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/">https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/</a></br>
+2)<a href="https://www.geeksforgeeks.org/compiler-design-tutorials/?ref=lbp"> GFG Compiler Design </a></br>
+3)<a href="https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc"> play List </a></br>
+4)<a href="https://www.youtube.com/watch?v=gR1FnnNzMvk&list=PLPIwNooIb9vh9l2_rk2OGAWYcA9b8X9Y5">  Play List </a></br>
 
 <h3>In language of bhai we make our own compiler.<h3>
 

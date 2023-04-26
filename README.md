@@ -34,7 +34,7 @@
 6) Operator Precedence = <a href="https://youtu.be/7K2U4Otqhpk">Link</a>  <a href="https://youtu.be/c6vGGdy0Iw4">Link</a>
 7) LR(0) = <a href="https://youtu.be/MCZ8FPZ7blY">Link</a> 
 8) DAG = <a href="https://youtu.be/-ytaiHWWsAA">Link</a>
-9) SLR = <a href="https://youtu.be/d2HBvYAOSwU">Link</a>
+9) SLR1 = <a href="https://youtu.be/d2HBvYAOSwU">Link</a>
 
 <h2>*** External MIMP Topics***	</h2>
 

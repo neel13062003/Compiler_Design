@@ -22,7 +22,7 @@
 
 <h2>****** YouTube ******</h2>
 
-<div>
+
 1) Recursive Decent Parser => <a href"https://youtu.be/iddRD8tJi44">Link</a>
 2) First Follow => <a href="https://youtu.be/oOCromcWnfc">Link1</a>          <a href="https://youtu.be/v_wvcuJ6mGY">Link2</a>
 3) Left Recursive => <a href="https://youtu.be/IfKzzcOtkmA">Link1</a>
@@ -34,51 +34,50 @@
 9) SLR1 = <a href="https://youtu.be/d2HBvYAOSwU">Link</a>
 
 <h2>*** External MIMP Topics***	</h2>
-</div>  
 
  <div> 
-<li>Introduction About Compiler Design Theory<li>
-<li>Recursive Decenet Parser =  (Becasue Using Recursion Decent Pasrser)<li>
-<li>Find Tokens,Lexime<li>
-<li>Parse Tree Generation<li>
-<li>Remove Ambiguity<li>
-<li>Make Factory<li>
-<li>Remove Left Recursion<li>
-<li>Lex Coding Part<li>
-<li>First,Follow<li>
-<li>Dangling Else Problem<li>
-<li>Check Whether LL1 parser Accept ot not (35page) + Stack Implementation <li>
+<li>Introduction About Compiler Design Theory</li>
+<li>Recursive Decenet Parser =  (Becasue Using Recursion Decent Pasrser)</li>
+<li>Find Tokens,Lexime</li>
+<li>Parse Tree Generation</li>
+<li>Remove Ambiguity</li>
+<li>Make Factory</li>
+<li>Remove Left Recursion</li>
+<li>Lex Coding Part</li>
+<li>First,Follow</li>
+<li>Dangling Else Problem</li>
+<li>Check Whether LL1 parser Accept ot not (35page) + Stack Implementation </li>
 </div>
    
 </br></br>
 <div>
-<li>Bottom Up Parser { Right To Left In Reverse Order }	<li>
-<li>SLR ( Reduce Reduce Parser , Shift Reduce Parser Two Conflicts )<li>
-<li>Operator Precendence ( Solve Conflicts of SLR but only for small Grammer ) (Unary Operator problem)<li>
-<li>Directed Acyclic Graph<li>
-<li>HashTable<li>
-<li>Symbol Table<li>
-<li>Navigation<li>
-<li>Syntex Directed Transaltion<li>
-<li>SDT For Infix To Prefix, Postfix<li>
-<li>Theroy Realted Parser All Types<li>
+<li>Bottom Up Parser { Right To Left In Reverse Order }	</li>
+<li>SLR ( Reduce Reduce Parser , Shift Reduce Parser Two Conflicts )</li>
+<li>Operator Precendence ( Solve Conflicts of SLR but only for small Grammer ) (Unary Operator problem)</li>
+<li>Directed Acyclic Graph</li>
+<li>HashTable</li>
+<li>Symbol Table</li>
+<li>Navigation</li>
+<li>Syntex Directed Transaltion</li>
+<li>SDT For Infix To Prefix, Postfix</li>
+<li>Theroy Realted Parser All Types</li>
  </div>
 
 </br></br>
 <div>
-<li>3Address Code<li>
-<li>DAG<li>
-<li>SyntexTree<li>
-<li>Symbol Table Active-Inactive contents<li>
-<li>SyntextTree,DAG,parseTree for Sentences<li>
-<li>Prefix & Postfix Notations<li>
-<li>CodeOptimzation<li>
-<li>Error Handling & Error Checking<li>
-<li>RunTime Environment <li>
-<li>QuickSort Activation Tree<li>
-<li>Static,Stack,Heap Allocation<li>
-<li>Access Link<li>
-<li>Parameter Passing<li>
+<li>3Address Code</li>
+<li>DAG</li>
+<li>SyntexTree</li>
+<li>Symbol Table Active-Inactive contents</li>
+<li>SyntextTree,DAG,parseTree for Sentences</li>
+<li>Prefix & Postfix Notations</li>
+<li>CodeOptimzation</li>
+<li>Error Handling & Error Checking</li>
+<li>RunTime Environment </li>
+<li>QuickSort Activation Tree</li>
+<li>Static,Stack,Heap Allocation</li>
+<li>Access Link</li>
+<li>Parameter Passing</li>
 </div>
 </br></br>
 <li>Lab Experiment Read GFG Article </li>

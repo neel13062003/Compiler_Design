@@ -62,7 +62,7 @@
 <li>Operator Precendence ( Solve Conflicts of SLR but only for small Grammer ) (Unary Operator problem)</li>
 <li> LR0 <a href="https://youtu.be/MCZ8FPZ7blY"> Link </a></li>
 <li> SLR <a href="https://youtu.be/d2HBvYAOSwU"> Link </a></li>
-<li>Directed Acyclic Graph</li>
+<li>Directed Acyclic Graph <a href="https://youtu.be/-ytaiHWWsAA">Link </a></li>
 <li>HashTable</li>
 <li>Symbol Table</li>
 <li>Navigation</li>

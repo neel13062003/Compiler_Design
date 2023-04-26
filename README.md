@@ -47,7 +47,7 @@
 <li>Make Factory</li>
 <li>Remove Left Recursion</li>
 <li>Lex Coding Part</li>
-<li>First,Follow</li>
+<li>First,Follow <a href="https://youtu.be/Vfude9LhtOg">Link</a></li>
 <li>Dangling Else Problem</li>
 <li>Check Whether LL1 parser Accept ot not (35page) + Stack Implementation </li>
 </div>

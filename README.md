@@ -46,6 +46,7 @@
 <li>Remove Ambiguity</li>
 <li>Make Factory</li>
 <li>Remove Left Recursion</li>
+<li>Types of Parse <a  href="https://youtu.be/loqHLZrihpE">Link</a></li> 
 <li>Lex Coding Part</li>
 <li>First,Follow <a href="https://youtu.be/Vfude9LhtOg">Link</a></li>
 <li>Dangling Else Problem</li>

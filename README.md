@@ -36,6 +36,7 @@
 <h2>*** External MIMP Topics***	</h2>
 
  <div> 
+  <h2>Part-1</h2>
 <li>Introduction About Compiler Design Theory</li>
 <li>Recursive Decenet Parser =  (Becasue Using Recursion Decent Pasrser)</li>
 <li>Find Tokens,Lexime</li>
@@ -51,6 +52,7 @@
    
 </br></br>
 <div>
+ <h2>Part-1</h2>
 <li>Bottom Up Parser { Right To Left In Reverse Order }	</li>
 <li>SLR ( Reduce Reduce Parser , Shift Reduce Parser Two Conflicts )</li>
 <li>Operator Precendence ( Solve Conflicts of SLR but only for small Grammer ) (Unary Operator problem)</li>
@@ -65,6 +67,7 @@
 
 </br></br>
 <div>
+ <h2>Part-1</h2>
 <li>3Address Code</li>
 <li>DAG</li>
 <li>SyntexTree</li>

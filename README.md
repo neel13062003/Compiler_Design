@@ -1,11 +1,12 @@
 <h1>(LT - Compiler Designing ) = Language Translator = Most Scoring Subject</h1>
 
 1)<a href="https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/">https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/</a></br>
-2)<a href="https://www.geeksforgeeks.org/compiler-design-tutorials/?ref=lbp"> GFG Compiler Design </a></br>
-3)<a href="https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc"> Gates Smashers </a></br>
-4)<a href="https://www.youtube.com/watch?v=gR1FnnNzMvk&list=PLPIwNooIb9vh9l2_rk2OGAWYcA9b8X9Y5"> Best Play List </a></br>
-5)<a href="https://www.youtube.com/playlist?list=PLUvaDH_C5xwBVp7cuDvy_FENez3QFMMKx">Link (Krunal Sir)</a>
-6)<a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q">Link(Neso Acedemy)</a>
+2)<a href="https://youtu.be/voQl4G53uoo"> Lex- Identify Tokens Program </a>
+3)<a href="https://www.geeksforgeeks.org/compiler-design-tutorials/?ref=lbp"> GFG Compiler Design </a></br>
+4)<a href="https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc"> Gates Smashers </a></br>
+5)<a href="https://www.youtube.com/watch?v=gR1FnnNzMvk&list=PLPIwNooIb9vh9l2_rk2OGAWYcA9b8X9Y5"> Best Play List </a></br>
+6)<a href="https://www.youtube.com/playlist?list=PLUvaDH_C5xwBVp7cuDvy_FENez3QFMMKx">Link (Krunal Sir)</a>
+7)<a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q">Link(Neso Acedemy)</a>
 
 <h3>In language of bhai we make our own compiler.<h3>
 

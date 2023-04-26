@@ -5,21 +5,23 @@
 <a href="https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc"> play List </a>
 <a href="https://www.youtube.com/watch?v=gR1FnnNzMvk&list=PLPIwNooIb9vh9l2_rk2OGAWYcA9b8X9Y5">  Play List </a>
 
-In language of bhai we make our own compiler.
+<h3>In language of bhai we make our own compiler.<h3>
 
 
-***** Material *****
-S1 - Ayush Thakor 
-S1 - 2 PPT Tej
-S1 - My Practise Book (Missing)
-S2 - Ayush Thakor
-S2 - My Practise Book
-S3 - Ayush Thakor
-S3 - My Practise Book
-Viva/Practical - Conceptual Theroritcal Understanding + GFG Article Related Flex + Lab Experiment( Which is Vey Easy )
+<h2>***** Material *****</h2>
+
+<li>S1 - Ayush Thakor 
+<li>S1 - 2 PPT Tej
+<li>S1 - My Practise Book (Missing)
+<li>S2 - Ayush Thakor
+<li>S2 - My Practise Book
+<li>S3 - Ayush Thakor
+<li>S3 - My Practise Book
+<li>Viva/Practical - Conceptual Theroritcal Understanding + GFG Article Related Flex + Lab Experiment( Which is Vey Easy )
 
 
-****** YouTube ******
+<h2>****** YouTube ******</h2>
+  
 1) Recursive Decent Parser => <a href"https://youtu.be/iddRD8tJi44">Link</a>
 2) First Follow => <a href="https://youtu.be/oOCromcWnfc">Link1</a>          <a href="https://youtu.be/v_wvcuJ6mGY">Link2</a>
 3) Left Recursive => <a href="https://youtu.be/IfKzzcOtkmA">Link1</a>
@@ -30,46 +32,46 @@ Viva/Practical - Conceptual Theroritcal Understanding + GFG Article Related Flex
 8) DAG = <a href="https://youtu.be/-ytaiHWWsAA">Link</a>
 9) SLR1 = <a href="https://youtu.be/d2HBvYAOSwU">Link</a>
 
-*** External MIMP Topics***	
+<h2>*** External MIMP Topics***	</h2>
 
--Introduction About Compiler Design Theory
--Recursive Decenet Parser =  (Becasue Using Recursion Decent Pasrser)
--Find Tokens,Lexime
--Parse Tree Generation
--Remove Ambiguity
--Make Factory
--Remove Left Recursion
--Lex Coding Part
--First,Follow
--Dangling Else Problem
--Check Whether LL1 parser Accept ot not (35page) + Stack Implementation 
+<li>Introduction About Compiler Design Theory<li>
+<li>Recursive Decenet Parser =  (Becasue Using Recursion Decent Pasrser)<li>
+<li>Find Tokens,Lexime<li>
+<li>Parse Tree Generation<li>
+<li>Remove Ambiguity<li>
+<li>Make Factory<li>
+<li>Remove Left Recursion<li>
+<li>Lex Coding Part<li>
+<li>First,Follow<li>
+<li>Dangling Else Problem<li>
+<li>Check Whether LL1 parser Accept ot not (35page) + Stack Implementation <li>
 
+</br></br>
+<li>Bottom Up Parser { Right To Left In Reverse Order }	<li>
+<li>SLR ( Reduce Reduce Parser , Shift Reduce Parser Two Conflicts )<li>
+<li>Operator Precendence ( Solve Conflicts of SLR but only for small Grammer ) (Unary Operator problem)<li>
+<li>Directed Acyclic Graph<li>
+<li>HashTable<li>
+<li>Symbol Table<li>
+<li>Navigation<li>
+<li>Syntex Directed Transaltion<li>
+<li>SDT For Infix To Prefix, Postfix<li>
+<li>Theroy Realted Parser All Types<li>
 
--Bottom Up Parser { Right To Left In Reverse Order }	
--SLR ( Reduce Reduce Parser , Shift Reduce Parser Two Conflicts )
--Operator Precendence ( Solve Conflicts of SLR but only for small Grammer ) (Unary Operator problem)
--Directed Acyclic Graph
--HashTable
--Symbol Table
--Navigation
--Syntex Directed Transaltion
--SDT For Infix To Prefix, Postfix
--Theroy Realted Parser All Types
+</br></br>
+<li>3Address Code<li>
+<li>DAG<li>
+<li>SyntexTree<li>
+<li>Symbol Table Active-Inactive contents<li>
+<li>SyntextTree,DAG,parseTree for Sentences<li>
+<li>Prefix & Postfix Notations<li>
+<li>CodeOptimzation<li>
+<li>Error Handling & Error Checking<li>
+<li>RunTime Environment <li>
+<li>QuickSort Activation Tree<li>
+<li>Static,Stack,Heap Allocation<li>
+<li>Access Link<li>
+<li>Parameter Passing<li>
 
-
--3Address Code
--DAG
--SyntexTree
--Symbol Table Active-Inactive contents
--SyntextTree,DAG,parseTree for Sentences
--Prefix & Postfix Notations
--CodeOptimzation
--Error Handling & Error Checking
--RunTime Environment 
--QuickSort Activation Tree
--Static,Stack,Heap Allocation
--Access Link
--Parameter Passing
-
-
--Lab Experiment Read GFG Article
+</br></br>
+<li>Lab Experiment Read GFG Article </li>

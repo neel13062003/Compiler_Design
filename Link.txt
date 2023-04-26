@@ -1,9 +1,9 @@
 (LT - Compiler Designing ) = Language Translator = Most Scoring Subject.
 
-https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/
-https://www.geeksforgeeks.org/compiler-design-tutorials/?ref=lbp => GFG Compiler Design
-https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc=>pALY LSIT
-https://www.youtube.com/watch?v=gR1FnnNzMvk&list=PLPIwNooIb9vh9l2_rk2OGAWYcA9b8X9Y5 => Play List
+<a href="https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/">https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/</a>
+<a href="https://www.geeksforgeeks.org/compiler-design-tutorials/?ref=lbp"> GFG Compiler Design </a>
+<a href="https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc"> play List </a>
+<a href="https://www.youtube.com/watch?v=gR1FnnNzMvk&list=PLPIwNooIb9vh9l2_rk2OGAWYcA9b8X9Y5">  Play List </a>
 
 In language of bhai we make our own compiler.
 
@@ -20,15 +20,15 @@ Viva/Practical - Conceptual Theroritcal Understanding + GFG Article Related Flex
 
 
 ****** YouTube ******
-1) Recursive Decent Parser => "https://youtu.be/iddRD8tJi44"
-2) First Follow => "https://youtu.be/oOCromcWnfc"          "https://youtu.be/v_wvcuJ6mGY"
-3) Left Recursive => "https://youtu.be/IfKzzcOtkmA"
-4) Left Factory => "https://youtu.be/hAk_bYEzGdo"
-5) Dangling Else Problem(Ambiguity) => "https://youtu.be/X-7gPMZywSQ"
-6) Operator Precedence = "https://youtu.be/7K2U4Otqhpk"
-7) LR(0) = "https://youtu.be/MCZ8FPZ7blY" 
-8) DAG = "https://youtu.be/-ytaiHWWsAA"
-9) SLR1 ="https://youtu.be/d2HBvYAOSwU"
+1) Recursive Decent Parser => <a href"https://youtu.be/iddRD8tJi44">Link</a>
+2) First Follow => <a href="https://youtu.be/oOCromcWnfc">Link1</a>          <a href="https://youtu.be/v_wvcuJ6mGY">Link2</a>
+3) Left Recursive => <a href="https://youtu.be/IfKzzcOtkmA">Link1</a>
+4) Left Factory => <a href="https://youtu.be/hAk_bYEzGdo">Link</a>
+5) Dangling Else Problem(Ambiguity) => <a href="https://youtu.be/X-7gPMZywSQ">Link</a>
+6) Operator Precedence = <a href="https://youtu.be/7K2U4Otqhpk">Link</a>
+7) LR(0) = <a href="https://youtu.be/MCZ8FPZ7blY">Link</a> 
+8) DAG = <a href="https://youtu.be/-ytaiHWWsAA">Link</a>
+9) SLR1 = <a href="https://youtu.be/d2HBvYAOSwU">Link</a>
 
 *** External MIMP Topics***	
 

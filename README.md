@@ -31,7 +31,7 @@
 3) Left Recursive => <a href="https://youtu.be/IfKzzcOtkmA">Link1</a>
 4) Left Factory => <a href="https://youtu.be/hAk_bYEzGdo">Link</a>
 5) Dangling Else Problem(Ambiguity) => <a href="https://youtu.be/X-7gPMZywSQ">Link</a>
-6) Operator Precedence = <a href="https://youtu.be/7K2U4Otqhpk">Link</a>
+6) Operator Precedence = <a href="https://youtu.be/7K2U4Otqhpk">Link</a>  <a href="https://youtu.be/c6vGGdy0Iw4">Link</a>
 7) LR(0) = <a href="https://youtu.be/MCZ8FPZ7blY">Link</a> 
 8) DAG = <a href="https://youtu.be/-ytaiHWWsAA">Link</a>
 9) SLR1 = <a href="https://youtu.be/d2HBvYAOSwU">Link</a>

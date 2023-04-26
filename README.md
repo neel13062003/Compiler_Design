@@ -49,7 +49,7 @@
 <li>Lex Coding Part</li>
 <li>First,Follow <a href="https://youtu.be/Vfude9LhtOg">Link</a></li>
 <li>Dangling Else Problem</li>
-<li>Check Whether LL1 parser Accept ot not (35page) + Stack Implementation </li>
+<li>Check Whether LL1 parser Accept ot not (35page) + Stack Implementation <a href="https://youtu.be/p62IzMOdDJA">Link</a></li>
 </div>
    
 </br></br>

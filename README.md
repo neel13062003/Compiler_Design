@@ -2,9 +2,10 @@
 
 1)<a href="https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/">https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/</a></br>
 2)<a href="https://www.geeksforgeeks.org/compiler-design-tutorials/?ref=lbp"> GFG Compiler Design </a></br>
-3)<a href="https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc"> play List </a></br>
-4)<a href="https://www.youtube.com/watch?v=gR1FnnNzMvk&list=PLPIwNooIb9vh9l2_rk2OGAWYcA9b8X9Y5">  Play List </a></br>
-5)<a href="https://www.youtube.com/playlist?list=PLUvaDH_C5xwBVp7cuDvy_FENez3QFMMKx">Link</a>
+3)<a href="https://youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc"> Gates Smashers </a></br>
+4)<a href="https://www.youtube.com/watch?v=gR1FnnNzMvk&list=PLPIwNooIb9vh9l2_rk2OGAWYcA9b8X9Y5"> Best Play List </a></br>
+5)<a href="https://www.youtube.com/playlist?list=PLUvaDH_C5xwBVp7cuDvy_FENez3QFMMKx">Link (Krunal Sir)</a>
+6)<a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q">Link(Neso Acedemy)</a>
 
 <h3>In language of bhai we make our own compiler.<h3>
 
@@ -39,8 +40,8 @@
  <div> 
   <h2>Part-1</h2>
 <li>Introduction About Compiler Design Theory</li>
-<li>Recursive Decenet Parser =  (Becasue Using Recursion Decent Pasrser)</li>
-<li>Find Tokens,Lexime  <a href="https://www.geeksforgeeks.org/c-program-detect-tokens-c-program/">Link</a></li> 
+<li>Recursive Decenet Parser =  (Becasue Using Recursion Decent Pasrser) <a href="https://youtu.be/XDAjH5vCNVk"> Link </a></li>
+<li>Find Tokens,Lexime  <a href="https://www.geeksforgeeks.org/c-program-detect-tokens-c-program/"> Link </a></li> 
 <li>Parse Tree Generation</li>
 <li>Remove Ambiguity</li>
 <li>Make Factory</li>

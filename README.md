@@ -1,4 +1,4 @@
-<h1>(LT - Compiler Designing ) = Language Translator = Most Scoring Subject</h1>
+<h1>(LT - Compiler Designing ) = Language Translator - System Programming</h1>
 
 1)<a href="https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/">https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/</a></br>
 2)<a href="https://youtu.be/voQl4G53uoo"> Lex- Identify Tokens Program </a>

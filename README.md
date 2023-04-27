@@ -86,7 +86,7 @@
 <li>QuickSort Activation Tree</li>
 <li>Static,Stack,Heap Allocation</li>
 <li>Access Link</li>
-<li>Parameter Passing</li>
+<li>Parameter Passing <a href="https://www.youtube.com/watch?v=kxnlhPyobTc">Link</a></li>
 </div>
 </br></br>
 <li>Lab Experiment Read GFG Article </li>

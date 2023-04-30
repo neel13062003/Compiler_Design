@@ -8,11 +8,11 @@
 6)<a href="https://www.youtube.com/playlist?list=PLUvaDH_C5xwBVp7cuDvy_FENez3QFMMKx">Link (Krunal Sir)</a></br>
 7)<a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q">Link(Neso Acedemy)</a>
 
-<h3>In language of bhai we make our own compiler.<h3>
 
 
 <h2>***** Material *****</h2>
 
+<!----
 <li>S1 - Ayush Thakor 
 <li>S1 - 2 PPT Tej
 <li>S1 - My Practise Book (Missing)
@@ -20,7 +20,7 @@
 <li>S2 - My Practise Book
 <li>S3 - Ayush Thakor
 <li>S3 - My Practise Book
-<li>Viva/Practical - Conceptual Theroritcal Understanding + GFG Article Related Flex + Lab Experiment( Which is Vey Easy )
+<li>Viva/Practical - Conceptual Theroritcal Understanding + GFG Article Related Flex + Lab Experiment( Which is Vey Easy )-->
 
 
 <h2>****** YouTube ******</h2>
